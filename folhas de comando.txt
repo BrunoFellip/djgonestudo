@@ -1,3 +1,7 @@
+Mostar todos os comandos
+python manage.py
+
+
 Ativar virtual env:
 cd projeto
 cd venv
@@ -17,6 +21,9 @@ python manage.py migrate
 
 Criar super usuario
 python manage.py createsuperuser
+
+Criando o App
+python manage.py startapp
 
 Parar o servidor
 ctrl + c
